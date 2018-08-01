@@ -1,5 +1,5 @@
 {
-    "name": "vendor/yuanmaketang",
+    "name": "vendor/wangpenghai",
     "description": "first composer",
     "type": "project",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "penghai\\Hello\\": "src/"
+            "yuanmaketang\\Hello\\": "src/"
         }
     }
 }

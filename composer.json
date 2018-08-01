@@ -9,7 +9,6 @@
             "email": "wph45@163.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
     },
     "autoload": {

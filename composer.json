@@ -1,4 +1,5 @@
 {
+    "name": "yuanmaketang/first-composer",
     "description": "first composer",
     "type": "library",
     "license": "MIT",

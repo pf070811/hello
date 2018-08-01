@@ -9,8 +9,10 @@
             "email": "wph45@163.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "minimum-stability": "stable",
+    "require": {
+        "yuanmaketang/first-composer": "1.0"
+    },
     "autoload": {
         "psr-4": {
             "yuanmaketang\\Hello\\": "src/"

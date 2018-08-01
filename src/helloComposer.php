@@ -6,7 +6,7 @@
  * Date: 2018/8/1
  * Time: 上午10:08
  */
-namespace penghai\Hello;
+namespace yuanmaketang\Hello;
 
 class helloComposer
 {
